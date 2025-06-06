@@ -23,4 +23,7 @@ Repositorio: https://github.com/brandavid29/Clasificaci-nFacial/edit/main/README
 
 Video:
 
-Codigo:
+Codigos:
+https://colab.research.google.com/drive/1NDGx9o2MGB91qZ73x1kLRoRC1cg3atO3?authuser=1
+https://colab.research.google.com/drive/1dfLoDf_FiD0_hcdYd81MXedRNKFW-bE8
+https://colab.research.google.com/drive/1EReh74l3sE0-3taFy7LBaRmpOnYkvXnT
