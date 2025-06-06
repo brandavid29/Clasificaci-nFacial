@@ -21,7 +21,7 @@ Diapositivas: https://www.canva.com/design/DAGo1wvrEng/3-8TctT-5SkDw3UryW18_w/ed
 
 Repositorio: https://github.com/brandavid29/Clasificaci-nFacial/edit/main/README.md
 
-Video:
+Video: https://youtu.be/bZBZAJXi4ns
 
 Codigos:
 https://colab.research.google.com/drive/1NDGx9o2MGB91qZ73x1kLRoRC1cg3atO3?authuser=1
